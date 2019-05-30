@@ -1,0 +1,1 @@
+lqipopts.h can be found at: https://github.com/cesanta/mongoose/blob/master/examples/TM4C129/ccs/Mongoose_TM4C129_BM/lwipopts.h

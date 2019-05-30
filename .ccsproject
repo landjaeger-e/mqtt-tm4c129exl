@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<deviceVariant value="Cortex M.TM4C129ENCPDT"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="5.2.8"/>
+	<isElfFormat value="true"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<isTargetManual value="false"/>
+	<origin value="C:/Temp/Mongoose_TM4C129_BM"/>
+	<connection value="common/targetdb/connections/Stellaris_ICDI_Connection.xml"/>
+</projectOptions>
